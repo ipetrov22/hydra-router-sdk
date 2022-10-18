@@ -1,6 +1,6 @@
 {
   "name": "hydra-router-sdk",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "An sdk for routing swaps using Hydraswap v2 and Hydraswap v3.",
   "publishConfig": {
     "access": "public"
@@ -30,7 +30,7 @@
     "@uniswap/sdk-core": "^3.0.1",
     "@uniswap/swap-router-contracts": "1.1.0",
     "@uniswap/v3-sdk": "^3.8.3",
-    "hydra-v2-sdk": "^1.0.0"
+    "hydra-v2-sdk": "^1.1.0"
   },
   "devDependencies": {
     "@types/jest": "^24.0.25",
